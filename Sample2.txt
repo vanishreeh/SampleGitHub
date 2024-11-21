@@ -1,1 +1,2 @@
 writing firstLine in secondFile
+writing second in SecondFile with GithubGui
