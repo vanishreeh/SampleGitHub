@@ -1,3 +1,7 @@
 writing firstLine in secondFile
+<<<<<<< HEAD
 
 adding Third Line
+=======
+writing second in SecondFile with GithubGui
+>>>>>>> 9100bc0fbef7f491eea6a8efad9b20ed41f0f5b8
